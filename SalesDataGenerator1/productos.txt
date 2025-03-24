@@ -1,0 +1,10 @@
+1;Laptop;2000000
+2;Celular;1500000
+3;Impresora;800000
+4;Teclado;120000
+5;Mouse;70000
+6;Monitor;900000
+7;Silla;450000
+8;Escritorio;600000
+9;Tablet;1300000
+10;Disco Duro;350000
